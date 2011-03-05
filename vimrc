@@ -24,6 +24,7 @@ colorscheme desert256
 set number
 set hidden
 let mapleader=','
+set autoread
 
 " configure other packages
 runtime! config/**/*

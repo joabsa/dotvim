@@ -25,6 +25,11 @@ set number
 set hidden
 let mapleader=','
 set autoread
+set cpoptions+=$
+set viminfo='100,f1
+set backup
+set backupdir=~/.vim/backup
+set directory=~/.vim/tmp
 
 " configure other packages
 runtime! config/**/*

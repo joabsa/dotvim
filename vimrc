@@ -30,6 +30,14 @@ set viminfo='100,f1
 set backup
 set backupdir=~/.vim/backup
 set directory=~/.vim/tmp
+set splitright
+set splitbelow
+set pastetoggle=<F2>
+set colorcolumn=80
+set listchars=tab:>.,trail:.,extends:#,nbsp:.
+
+noremap <space> <C-f>
+noremap <C-space> <C-b>
 
 " configure other packages
 runtime! config/**/*

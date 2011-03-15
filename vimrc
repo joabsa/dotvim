@@ -35,6 +35,8 @@ set splitbelow
 set pastetoggle=<F2>
 set colorcolumn=80
 set listchars=tab:>.,trail:.,extends:#,nbsp:.
+set hlsearch
+set incsearch
 
 noremap <space> <C-f>
 noremap <C-space> <C-b>

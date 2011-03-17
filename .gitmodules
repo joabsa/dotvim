@@ -31,3 +31,9 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = https://github.com/rphillips/vim-taglist.git
+[submodule "bundle/scala"]
+	path = bundle/scala
+	url = https://github.com/ewiplayer/vim-scala.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
